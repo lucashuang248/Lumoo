@@ -1,2 +1,4 @@
+{% include navigation.html %}
+
 # Lumoo
-Repo of Lucas
+
