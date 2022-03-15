@@ -1,6 +1,6 @@
 {% include navigation.html %}
 
-# Lumoo
+# Lumoo's Github 
 
 For Review: 
 
