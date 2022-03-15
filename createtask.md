@@ -1,7 +1,7 @@
 {% include navigation.html %}
 
-## 1 Minute Video: https://www.loom.com/share/52a2145758c1432e8b7eec24cf662178
-[Create Task Video](https://drive.google.com/file/d/19WveZC_9lHEb9BbEP6NmZ4k68LnXI8TT/view?usp=sharing)
+
+[1 Minute Create Task Video](https://drive.google.com/file/d/19WveZC_9lHEb9BbEP6NmZ4k68LnXI8TT/view?usp=sharing)
 
 # PBL Feature: Collectable Recommendation Filter
 
