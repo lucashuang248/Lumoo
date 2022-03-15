@@ -1,3 +1,4 @@
 {% include navigation.html %}
 
-[Review Ticket](https://github.com/lucashuang248/Lumoo/issues/1)
+
+[Review Ticket: Plans, Team, Jobs](https://github.com/lucashuang248/Lumoo/issues/1)
