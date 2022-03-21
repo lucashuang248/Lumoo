@@ -2,16 +2,44 @@
 
 # Tech Talk 5 Notes
 
+## 5.6 Safe Computing
+* Personally Identifiable information (PII): Information specific to individual Social security number Age Race Phone # Date of birth Email address Mailing address Can be used to steal someone’s data Search engines maintain our search history Used to enhance a user’s online experience Can be exploited if protections are ignored Google, Facebook, and Twitter gather lots of information based on what you search and post Lots of risks to privacy as your activity is recorded and kept in data Information put on the internet does not go away Internet is an integral part of our lives Phishing An attempt to trick a user into providing personal information, like usernames and passwords Phising emails look like they are from a company that you know Bank Credit card company Social networking site Video streaming service Online Store Click on a link or opening an attachment Clicking on a link or opening an attachment can install a virus or a bad website Keylogger: Records every keystroke made by a user in order to gain fraudulent access to passwords or other confidential information Rogue Access Point: A wireless network that can give unauthorized access to secure networks
+*Authentication measures are strong passwords and multi-factor authentication Protects devices and information from unauthorized access Create strong passwords have requirements to make them more complex/secure Multi-factor authentication: what you know, what you are, what you have Virus and malware can get access to systems and affect it Asymmetric encryption: Public key for encrypting Private key for decrypting
+
+## 5.5 Legal and Ethical concerns
+* Intellectual property (IP) A work or invention that is the result of creativity to which one has rights Copyright Protects IP and keeps anyone from using it Plagiarism: Presenting material as your own Legal ways to use material Creative Commons Open source Open access Creative Commons Provides free licenses that tells others how you want your creations to be used Open source Programs made freely available for anyone to use and may be redistributed and modified Open Access Online research output free of any and all restrictions on access and free of many restrictions on use, such as copyright or license restrictions Digital Divide: Unequal distribution of access to technology
+
+## 5.4 Crowdsourcing
+* Kaggle
+* Courses in visualizations, TensorFlow, AI, machine learning
+* Competitions
+* Notebooks
+* Distrivuted Computing
+* Donate spare computing power to help calculations
+* Spotify
+* Collaborative playlists
+* Algorithm
+* Metadata write in
+* Crowdfunding
+* Kickstarter
+* IndieGoGo
+* BlockChain
+
+### 5.4 Actions
+* One project we could make with crowdsourcing is a collection of birthdays. If everybody input their name and birthday, we could create aprogram that automatically tells everyone happy birthday on the day. We could also create graphs and data of most common birthdays, zodiac signs and stuff like that.
+* I think there are ways we could use crowdsourcing to improve out final website. For example, I think if we allowed people to edit and add to the calendar that we plan on putting in the website, that would be a good way to add info and dates that otehrs may want to see. Our project itself could be based on crowdsourced solutions to the tutorials as well so that others may look at previous solutions that coders have created before them for ideas and guidance on how to complete the tutorials themselves if they are having trouble.
+
 ## 5.3 Notes 
 * Computer Bias
 * Social Media: Facebook vs Tik Tok
 
-### 5.3 Actions
+### 5.3 Actions 
+* Obviosuly, HP computers aren’t racist. Objects like computers can’t be racist, if anything the people who coded them mey have been, but it’s more liekly that there is some mistake or problem that they did not see during testing. Perhaps they only tested facial recognition on certain peoples and that is why there is trouble identifying black people. It seems like a silly mistake that was made with no ill intent or harm meant behind it. It was simply a bug that was not found before release. It still should be fixed, and it is on the coders for not having a diverse enough testing group to find this problem, but it’s very likely if my group were doing this same project, we would have overlooked these same problems. In order to produce a better outcome, the managers should’ve created a more diverse group of coders or testers so that the mistake would have been caught before reaching the public.
 
 ## 5.2 Notes:
-> To do: code in python, in terminal, can use in PBL later on 
+### To do: code in python, in terminal, can use in PBL later on 
 
-*Digital Divide: denied access to technology
+* Digital Divide: denied access to technology
 * * Ex: Restrictions within school wifi
 
 ### Looking at python menu: 1st example
@@ -23,7 +51,7 @@
 * Nested four loops
 * Nested lists
 
-> Menu Challenge
+### Menu Challenge
 1. Build your own menu and sub-menu
 2. Add swap and keypad from Tri 2 Week 10, to your project and menu.
 3. For additional challenge and review, build a Christmas tree with *s or a pattern of your choice
@@ -40,7 +68,6 @@ image
 
 
 ## 5.1 Notes: 
-
 * UAVs/Drones
 * Dopamine: hormone released when doing something that give you pleasure
 * Automated telephone trees
