@@ -2,6 +2,7 @@
 # 2. function references will be executed directly file.function()
 # imports from other .py files
 # Main Menu
+from week0 import christmastree
 from week1 import infodblistsandloops
 
 
@@ -13,8 +14,9 @@ main_menu = [
 # Works similarly to main_menu
 sub_menu0 = [
     ["Oogway Quote", "week0/oogwayquote.py"],
-    ["Christmas Tree", "week0/christmastree.py"],
-    ["Matrix Number Pad", "week0/matrixnumberpad.py"]
+    ["Christmas Tree", christmastree.treeprint],
+    ["Matrix Number Pad", "week0/matrixnumberpad.py"],
+    ["Number Swap", "week0/numberswap.py"]
 
 ]
 
