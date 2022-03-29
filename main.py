@@ -13,22 +13,24 @@ main_menu = [
 # Submenu list of [Prompt, Action]
 # Works similarly to main_menu
 sub_menu0 = [
-    ["Oogway Quote", "week0/oogwayquote.py"],
     ["Christmas Tree", christmastree.treeprint],
     ["Matrix Number Pad", "week0/matrixnumberpad.py"],
-    ["Number Swap", "week0/numberswap.py"]
+    
 
 ]
 
 sub_menu1 = [
-    ["InfoDBListsandLoops", infodblistsandloops.tester],
-    ["Fibonacci", "week1/fibonacci.py"]
+
+    ["Fibonacci", "week1/fibonacci.py"],
+    ["Factorial", "week2/factorial.py"],
+    ["Math Imperative + OOP", "week2/math.py"],
+    ["Number Swap", "week0/numberswap.py"],
 ]
 
 sub_menu2 = [
-    ["Factorial", "week2/factorial.py"],
-    ["Math Imperative + OOP", "week2/math.py"],
-    ["Extra Credit Palindrome", "week2/palindrome.py"]
+    ["Oogway Quote", "week0/oogwayquote.py"],
+    ["Extra Credit Palindrome", "week2/palindrome.py"],
+    ["InfoDBListsandLoops", infodblistsandloops.tester],
 ]
 
 border = "=" * 25
@@ -38,9 +40,9 @@ banner = f"\n{border}\nPlease choose one of the following options: \n{border}"
 def menu():
     title = "Lumoo's Menu" + banner
     menu_list = main_menu.copy()
-    menu_list.append(["Week 0: Oogway Quote, Christmas Tree, Number Swap, Matrix Number Pad", submenu0])
-    menu_list.append(["Week 1: Lists, Loops, Fibonacci", submenu1])
-    menu_list.append(["Week 2: Factorial, Math", submenu2])
+    menu_list.append(["Patterns: Christmas Tree, Matrix Number Pad", submenu0])
+    menu_list.append(["Math: Fibonacci, Number Swap, Factorial, Math Function", submenu1])
+    menu_list.append(["Display: Oogway Quote, Palindrome, Lists, Loops", submenu2])
     buildMenu(title, menu_list)
 
 
