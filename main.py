@@ -2,19 +2,19 @@
 # 2. function references will be executed directly file.function()
 # imports from other .py files
 # Main Menu
-from week0 import christmastree
+from week0 import christmastree,animation
 from week1 import infodblistsandloops
 
 
 main_menu = [
 #  ["FunGame", "fungame.py"]
 ]
-
 # Submenu list of [Prompt, Action]
 # Works similarly to main_menu
 sub_menu0 = [
     ["Christmas Tree", christmastree.treeprint],
     ["Matrix Number Pad", "week0/matrixnumberpad.py"],
+    ["Animation", animation.animation],
     
 
 ]
@@ -106,5 +106,3 @@ def buildMenu(banner, options):
 
 if __name__ == "__main__":
     menu()
-
-
