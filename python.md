@@ -2,7 +2,83 @@
 
 <iframe frameborder="0" width="100%" height="600px" src="https://replit.com/@lucashuang248/Lumoo?embed=true"></iframe>
 
-Week 1 Code Snippets
+# Week 2 Code Snippets
+
+Factorial
+```html
+class Fibonacci:
+    def __init__(self):
+        self.fiboSeq = [0, 1]
+
+
+    def __call__(self, n):
+        if n < len(self.fiboSeq):
+            return self.fiboSeq[n]
+        else:
+            # Compute the requested Fibonacci number
+            fib_number = self(n - 1) + self(n - 2) # two recursive calls to self (__call__(self, n))
+            self.fiboSeq.append(fib_number) # builds list, with most nested of the calculations 1st... may hurt your head
+        return self.fiboSeq[n]
+
+fiboans = int(input("Choose a number "))
+fibo_of = Fibonacci() # object instantiation and run __init__ method
+print("\nFactorial is : ")
+print(fibo_of(fiboans)) # object running __call__ method
+
+print("\nFactorial of 29 is : ")
+print(fibo_of(29))
+```
+
+Palindrome
+```html
+class palindrome:
+  def __init__(self):
+    self.s = ""
+    
+
+  def palincheck(self):
+    x = "palindrome"
+ 
+    w = ""
+    for i in x:
+        w = i + w
+     
+    if (x == w):
+        print("\nIt's a palindrome!")
+    else:
+        print("\nNah this isn't a palindrome")
+
+  def palincheck2(self):
+    y = "A man, the plan, the moon"
+    w = ""
+    for i in y:
+      w = i + w
+    if (y == w):
+        print("\nIt's a palindrome!")
+    else:
+      print("\nNah this isn't a palindrome")
+
+  def palincheck3(self):
+    y = "racecar"
+    w = ""
+    for i in y:
+      w = i + w
+    if (y == w):
+        print("\nIt's a palindrome!")
+    else:
+      print("\nNah this isn't a palindrome")
+
+PALIN = palindrome()
+print("\nChecking if 'palindrome' is a palindrome... : ")
+print(PALIN.palincheck())
+print("\nChecking if 'A man, the plan, the moon' is a palindrome... : ")
+print(PALIN.palincheck2())
+print("\nChecking if 'racecar' is a palindrome...: ")
+print(PALIN.palincheck3())
+print("-------------------------------")
+```
+
+# Week 1 Code Snippets
 
 InfoDB Lists and Loops
 ```html
@@ -69,7 +145,7 @@ except AssertionError :
 ```
 
 
-Week 0 Code Snippets
+# Week 0 Code Snippets
 
 Christmas Tree
 ```html
