@@ -4,6 +4,7 @@
 # Main Menu
 from week0 import christmastree,animation
 from week1 import infodblistsandloops
+from crossover import hi
 
 
 main_menu = [
@@ -31,6 +32,7 @@ sub_menu2 = [
     ["Oogway Quote", "week0/oogwayquote.py"],
     ["Extra Credit Palindrome", "week2/palindrome.py"],
     ["InfoDBListsandLoops", infodblistsandloops.tester],
+    ["Hi", hi.hi],
 ]
 
 border = "=" * 25

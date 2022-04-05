@@ -1,5 +1,4 @@
 #Writing in Imperative here
-#Written by Ritvik Keerthi (OOP stuff)
 print("-------------------------------")
 print("\nStart of Imperative Programming of GCD Function")
 def findgcd(num1, num2):
