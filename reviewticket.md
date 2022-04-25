@@ -1,5 +1,7 @@
 {% include navigation.html %}
 
+[Review Ticket: Proctored MCQ Week1 : Quiz1, Quiz2 Scores](https://github.com/lucashuang248/Lumoo/issues/7)
+[Study Plan](https://github.com/lucashuang248/Lumoo/issues/7#issue-1214951456)
 
 [Review Ticket: Accounts and Logins](https://github.com/lucashuang248/Lumoo/issues/6)
 
