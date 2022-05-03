@@ -199,7 +199,7 @@ Individuals can freely distribute or use the contents of the e-book without need
 What are the values of first and second as a result of executing the code segment?
 
 first = 100, second = 100
-
+.
 
 
 
