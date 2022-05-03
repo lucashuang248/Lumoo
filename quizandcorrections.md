@@ -6,6 +6,8 @@
 
 ## Quiz 1 Questions and Corrections
 
+![Screen Shot 2022-05-03 at 1 26 46 PM](https://user-images.githubusercontent.com/89277966/166560240-42d352db-f845-4a8a-8d57-90e9555aa346.png)
+
 Which of the following best describes the relationship between the World Wide Web and the Internet?
 
 
@@ -43,6 +45,8 @@ C, the conclusion is incorrect; using the test case [0, 1, 4, 5] is not sufficie
 
 ## Quiz 2 Questions and Correcions
 
+![Screen Shot 2022-05-03 at 1 27 14 PM](https://user-images.githubusercontent.com/89277966/166560315-4718f245-4ced-4664-8d76-689b5c00ca70.png)
+
 Which of the following best describes the ability of parallel computing solutions to improve efficiency?
 
 
@@ -79,15 +83,6 @@ Which of the following is NOT an advantage of using open-source software?
 
 
 The original developer of open-source software provides free or low-cost support for users installing and running the software.
-
-
-
-Which of the following applications is most likely to benefit from the use of crowdsourcing?
-
-
-
-An application that allows users to view descriptions and photographs of local landmarks
-
 
 
 Which of the following best describes the behavior of the procedure?
@@ -141,6 +136,69 @@ Which of the following is most likely to be a benefit to users of the applicatio
 
 Users of the application may see health benefits as a result of the application encouraging them to exercise with each other.
 
+
+
+Which of the following applications is most likely to benefit from the use of crowdsourcing?
+
+
+
+An application that allows users to view descriptions and photographs of local landmarks
+
+## Quiz 3 Questions and CorrecStep 1:
+
+![Screen Shot 2022-05-03 at 1 27 51 PM](https://user-images.githubusercontent.com/89277966/166560426-16aa87b1-9a4c-4417-b4e5-323ec3510ffe.png)
+
+Which of the following algorithms display all integers between 1 and 20, inclusive, that are not divisible by 3 ?
+
+Set x to 0.
+ Step 2:
+Increment x by 1.
+ Step 3:
+If x is not divisible by 3, then display x.
+ Step 4:
+Repeat steps 2 and 3 until x is 20.tions
+
+Step 1:
+Set x to 1.
+  Step 2: If x is divisible by 3, then do nothing; otherwise display x.
+Step 3:
+Increment x by 1.
+  Step 4: Repeat steps 2 and 3 until x is greater than 20.
+  
+  
+Which of the following statements is equivalent to the algorithm in the flowchart?
+  
+Include, left arrow, open parenthesis, floor greater than 10, close parenthesis, OR, open parenthesis, bedrooms equal 3, close parenthesis
+
+
+Which of the following lists the values in order from least to greatest?
+
+Decimal 5, binary 1011, decimal 12, binary 1101
+
+
+Which of the following best explains how devices and information can be susceptible to unauthorized access if weak passwords are used?
+
+Unauthorized individuals can use data mining and other techniques to guess a user’s password.
+
+
+Which of the following hypotheses is most consistent with the data in the table?
+
+The mobile app release led to users tending to write shorter messages.
+
+
+Which of the following best explains the relationship between the Internet and the World Wide Web?
+
+The Internet is a network of interconnected networks, and the World Wide Web is a system of linked pages, programs, and files that is accessed via the Internet.
+
+
+The author of an e-book publishes the e-book using a no-rights-reserved Creative Commons license. Which of the following best explains the consequences of publishing the book with this type of license?
+
+Individuals can freely distribute or use the contents of the e-book without needing to obtain additional permissions from the author.
+
+
+What are the values of first and second as a result of executing the code segment?
+
+first = 100, second = 100
 
 
 
