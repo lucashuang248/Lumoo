@@ -11,8 +11,18 @@
 
 Hi, welcome to my Github Repository! My name is Lucas Huang, I am 17, and am a junior here at Del Norte Highschool. I am apart of Del Norte's NHS, Trail Note, Hack Club, and Team TLDEW (APCSP). I love to play basketball and video games, and spend time hanging out with my friends and family.
 
+## Study Plan Week 3
+Monday: Finish up Create Task
 
-## Study Plan Week 1
+Tuesday: Prepare for AP Exam and next days quiz
+
+Wednesday: Take Quiz 5 in class
+
+Thursday: Work on Corrections and Study for AP Exam
+
+Friday: Study for AP Exam 
+
+## Study Plan Week 2
 Monday: Prepare for the next days quiz and watch the big iea videos
 
 Tuesday: Finish Quiz 3 in class
