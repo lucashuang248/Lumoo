@@ -14,7 +14,7 @@ Hi, welcome to my Github Repository! My name is Lucas Huang, I am 17, and am a j
 ## Study Plan Week 3
 Monday: Finish up Create Task
 
-Tuesday: Prepare for AP Exam and next days quiz
+Tuesday: Crossover. Prepare for AP Exam and next days quiz
 
 Wednesday: Take Quiz 5 in class
 
