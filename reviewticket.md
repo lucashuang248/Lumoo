@@ -1,5 +1,14 @@
 {% include navigation.html %}
 
+## Week 7
+[Review Ticket](https://github.com/lucashuang248/Lumoo/issues/10)
+
+## Week 7
+[Review Ticket](https://github.com/lucashuang248/Lumoo/issues/9)
+
+## Week 6
+[Review Ticket](https://github.com/lucashuang248/Lumoo/issues/8)
+
 ## Week 5
 [Review Ticket: Proctored MCQ Week1 : Quiz1, Quiz2 Scores](https://github.com/lucashuang248/Lumoo/issues/8)
 - [Study Plan](https://github.com/lucashuang248/Lumoo/issues/7)
