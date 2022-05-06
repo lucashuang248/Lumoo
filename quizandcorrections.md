@@ -200,6 +200,8 @@ first = 100, second = 100
 
 ## Quiz 4 and Correction
 
+![Screen Shot 2022-05-06 at 1 28 35 PM](https://user-images.githubusercontent.com/89277966/167212131-ab825be7-a357-4bab-9331-30036b5c770a.png)
+
 A computer program uses 3 bits to represent integers. When the program adds the decimal (base 10) numbers 5 and 3, the result is 0. Which of the following is the best explanation for the result?
 
 An overflow error occurred
