@@ -1,8 +1,5 @@
 {% include navigation.html %}
 
-<a href="quiz1">Quiz 1 and Corrections</a>
-  
-<a href="quiz2">Quiz 2 and Corrections</a>
 
 ## Quiz 1 Questions and Corrections
 
@@ -144,7 +141,7 @@ Which of the following applications is most likely to benefit from the use of cr
 
 An application that allows users to view descriptions and photographs of local landmarks
 
-## Quiz 3 Questions and CorrecStep 1:
+## Quiz 3 Questions and Corrections 1:
 
 ![Screen Shot 2022-05-03 at 1 27 51 PM](https://user-images.githubusercontent.com/89277966/166560426-16aa87b1-9a4c-4417-b4e5-323ec3510ffe.png)
 
@@ -200,6 +197,32 @@ What are the values of first and second as a result of executing the code segmen
 
 first = 100, second = 100
 .
+
+## Quiz 4 and Correction
+
+A computer program uses 3 bits to represent integers. When the program adds the decimal (base 10) numbers 5 and 3, the result is 0. Which of the following is the best explanation for the result?
+
+An overflow error occurred
+The transmission control protocol (TCP) and Internet protocol (IP) are used in Internet communication. Which of the following best describes the purpose of these protocols?
+
+To establish a common standard for sending messages between devices on the Internet
+
+Which of the following best compares the values displayed by programs A and B?
+
+Program A and program B display identical values in the same order.
+
+If category is "new" and age is 20, what are the values of val1 and val2 as a result of executing the code segment?
+
+val1 = false, val2 = false
+
+Which of the following best describes the behavior of the program?
+
+The program correctly displays the number of times target appears in the list.
+
+Which of the following code segments best simulates the behavior of the game?
+
+The figure presents three blocks of code that consist of 7 lines. Throughout the second and third blocks of code are nested blocks of code. Line 1: [begin block] sum ← 0 [end block] [Begin Block] Line 2: REPEAT 3 TIMES [Begin Block] Line 3: [begin block] sum ← sum + RANDOM [begin block] 0, 1 [end block] [End Block] [End Block] [End block] [Begin Block] Line 4: IF [begin block] [begin block] sum = 3 [end block] OR [begin block] sum = 0 [end block] [End Block] [Begin Block] Line 5: [begin block] DISPLAY [begin block] “You win!” [end block] [end block] [End Block] Line 6: ELSE [Begin Block] Line 7: [begin block] DISPLAY [begin block] “You lose” [end block] [end block] [End Block] [End Block]
+
 
 
 
